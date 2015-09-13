@@ -48,9 +48,9 @@ This packages uses the `markdown` processor for markdown. It can be installed us
 
 """
 
-__version__ = "1.0b1"
+__version__ = "1.0"
 
-__version_dt__ = "2015-09-12"
+__version_dt__ = "2015-09-13"
 __copyright__="Copyright (c) oditorium 2015. All rights reserved."
 __license__="MIT License"
 
